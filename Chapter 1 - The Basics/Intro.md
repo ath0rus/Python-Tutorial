@@ -4,7 +4,7 @@ You may ask
 - How is it used
 - How do i write Python
 
-Throughout this Repo (short for Reposotiry) we will answer these questions and get you started on writting in python.
+Throughout this Repo (short for Reposotiry) we will answer these questions and get you started on writting in python. Here is a very simple line of python code that i will show you later.
 ```python
 print('Hello')
 ```
