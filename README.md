@@ -5,3 +5,4 @@ This Repo will aim to help you learn python. Below is a list of changes to the f
 **Update Name, Version number, date, changes, description of changes**
 
 ## Start of project, V0.0.1, 22/09
+Project has been started, Repo is being designed and tutorials are being made.
