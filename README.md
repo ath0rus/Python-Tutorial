@@ -9,4 +9,5 @@ Project has been started, Repo is being designed and tutorials are being made.
 ## Base finish of Intro.md, V0.0.2, 23/09
 The Intro.md file has been finished and few changes will be made to it. 
 
-## Doccumenting setup of python and VSC, V0.0.2, 23/09 
+## Doccumenting of setup of python and VSC, V0.0.2, 23/09
+Doccumentation has been created
