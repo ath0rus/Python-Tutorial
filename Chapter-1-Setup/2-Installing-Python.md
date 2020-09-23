@@ -5,10 +5,10 @@ Once you find the .exe file in your downloads folder or where you saved it. Open
 
 Make sure that you have add to PATH box ticked as that will make life alot easier later on when it comes to adding modules.
 
+
 Now that python is installed we can continue, But if you want python to work better, re open the installer and click Modify ![The modify window of python installer](Chapter-1-Resourses/Modify.jpg).
 
 Then select all of the optional features and select next.
-
 ![Optional Fetaure menu of installer](Chapter-1-Resourses/Optional-features.jpg)
 
 Than select all the boxes again in Advanced features window. ![advanced features in python nstaller](Chapter-1-Resourses/Advanced-options.jpg)
