@@ -55,4 +55,4 @@ You now have Python ready to go Inside of VSC. Throught the rest of the docummen
 
 Next Part: [Chapter 2 Basics](../Chapter-2-Basics), News and updates about this tutorial: [The Readme file](../README.md)
 
-Editors Note: Sorry about the weird formatting for some reason github did not wan to play the game
+Editors Note: Sorry about the weird formatting for some reason github did not want to play the game
