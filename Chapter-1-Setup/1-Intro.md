@@ -30,3 +30,5 @@ You can use what ever text editor you want e.g. IDLE (Python's own text editor),
 i could go on for a while listing all the compatible editors. i won't bore you out and list them all. i recommend and use VSCode, i will show you how to set that up in the next doccument.
 
 Now that we have answered those questions we will move to installing python and setting up VSCode in the next doccumnt.
+
+Next to read: [Installing Python](2-Installing-Python.md), News and updates about this tutorial: [The Readme file](../README.md)
