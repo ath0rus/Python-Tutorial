@@ -34,10 +34,12 @@ You can also choose to add a desktop icon, which i advise but its not required f
 
 ## Setting up the python Extension
 1. When you have VSC opened look the the left side of the app for the "Extensions" tab Highlighted white in this screenshot
-![Extensions tab](Chapter-1-resourses/Extensions.jpg)
+![Extensions tab](Chapter-1-Resourses/Extensions.jpg)
 2. Search for python
 3. Click "Install" 
-![Install Preview](Chapter-1-resourses)le greyed out but it will look different for you
+![Install Preview](Chapter-1-Resourses/Python-Extension.jpg) 
+
+Mine is greyed out but it will look different for you
 4. If it says "Reload Required" click that and VSC will re open itself and activiate the extension. Note: VSC Insiders usually do not need to "Reload" to activiate the Extension
 5. Finished!
 
