@@ -36,8 +36,11 @@ You can also choose to add a desktop icon, which i advise but its not required f
 1. When you have VSC opened look the the left side of the app for the "Extensions" tab Highlighted white in this screenshot
 
 ![Extensions tab](Chapter-1-Resourses/Extensions.jpg)
+
 2. Search for python
+
 3. Click "Install" 
+
 ![Install Preview](Chapter-1-Resourses/Python-Extension.jpg) 
 
 Mine is greyed out but it will look different for you
