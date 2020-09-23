@@ -26,14 +26,18 @@ Follow the below steps to install VSC for Windows. I will not cover how to do it
 Once you download VSC run the installer
 1. Click "I Accept..." than next
 2. You may be prompted to pick an install location. just leave it as is or navigate to where you want it installed.
-3. Make sure that all the boxes under the ["other"](https://github.com/ath0rus/Python-Tutorial/blob/Additional-work/Chapter%201%20-%20The%20Basics/Chapter%201%20Resourses/Photos/Other%20Options.jpg) tab are selected. You can also choose to add a desktop icon, which i advise but its not required for the software to work.
+3. Make sure that all the boxes under the "other" tab are selected.
+![Other options](Chapter-1-Resourses/Other-Options.jpg)
+You can also choose to add a desktop icon, which i advise but its not required for the software to work.
 4. click "Next" and then "Install"
 5. You have now installed VSC
 
 ## Setting up the python Extension
-1. When you have VSC opened look the the left side of the app for the "Extensions" tab Highlighted white in this [screenshot](https://github.com/ath0rus/Python-Tutorial/blob/Additional-work/Chapter%201%20-%20The%20Basics/Chapter%201%20Resourses/Photos/Extensions.jpg)
+1. When you have VSC opened look the the left side of the app for the "Extensions" tab Highlighted white in this screenshot
+![Extensions tab](Chapter-1-resourses/Extensions.jpg)
 2. Search for python
-3. Click "Install". [My Screenshot](https://github.com/ath0rus/Python-Tutorial/blob/Additional-work/Chapter%201%20-%20The%20Basics/Chapter%201%20Resourses/Photos/Python%20Extension.jpg) shows the module greyed out but it will look different for you
+3. Click "Install" 
+![Install Preview](Chapter-1-resourses)le greyed out but it will look different for you
 4. If it says "Reload Required" click that and VSC will re open itself and activiate the extension. Note: VSC Insiders usually do not need to "Reload" to activiate the Extension
 5. Finished!
 
