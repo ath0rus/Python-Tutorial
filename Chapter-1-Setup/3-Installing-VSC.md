@@ -29,7 +29,9 @@ Once you download VSC run the installer
 3. Make sure that all the boxes under the "other" tab are selected.
 ![Other options](Chapter-1-Resourses/Other-Options.jpg)
 You can also choose to add a desktop icon, which i advise but its not required for the software to work.
+
 4. click "Next" and then "Install"
+
 5. You have now installed VSC
 
 ## Setting up the python Extension
