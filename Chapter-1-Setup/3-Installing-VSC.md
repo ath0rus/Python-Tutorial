@@ -46,7 +46,9 @@ You can also choose to add a desktop icon, which i advise but its not required f
 ![Install Preview](Chapter-1-Resourses/Python-Extension.jpg) 
 
 Mine is greyed out but it will look different for you
+
 4. If it says "Reload Required" click that and VSC will re open itself and activiate the extension. Note: VSC Insiders usually do not need to "Reload" to activiate the Extension
+
 5. Finished!
 
 You now have Python ready to go Inside of VSC. Throught the rest of the documments i will be using VSC Insiders to run the code, But both version of VSC are neally identical.
