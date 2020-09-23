@@ -11,3 +11,6 @@ The Intro.md file has been finished and few changes will be made to it.
 
 ## Doccumenting of setup of python and VSC, V0.0.2, 23/09
 Doccumentation has been created
+
+## Chapter 1 has been finished!, V0.0.3
+Well for now it has been finished, But there is enough there to do what you want
