@@ -19,7 +19,10 @@ Basically that means Python is a simple coding language that is used for many pu
 
 - How is it used
 
-Python can be used in Web development, game / software development and AI.
+Python can be used in:
+> Web development, game / software development, AI, Mathimatics and System scripting.
+
+[Python Introduction](https://www.w3schools.com/python/python_intro.asp)
 
 - How do i write Python
 
