@@ -38,3 +38,5 @@ Once you download VSC run the installer
 5. Finished!
 
 You now have Python ready to go Inside of VSC. Throught the rest of the documments i will be using VSC Insiders to run the code, But both version of VSC are neally identical.
+
+Next to read: [Chapter 2](../1-Intro.md), News and updates about this tutorial: [The Readme file](../README.md)
