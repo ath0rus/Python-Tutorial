@@ -5,4 +5,6 @@ that is what works with me. In no way is my method the be all an end all of ways
 i will be taking parts from [W3schools](https://www.w3schools.com/python/python_getstarted.asp) and [Techwittim.net](https://techwithtim.net/tutorials/python-programming/)
 Right thats enough of an intro lets get into some python in the next Doccument
 
+## The rest of this doccument is still currently being developed
+
 What to read next: [Starting in python](), [Updates to these doccuments]()
