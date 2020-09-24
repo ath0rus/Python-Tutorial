@@ -12,5 +12,9 @@ The Intro.md file has been finished and few changes will be made to it.
 ## Doccumenting of setup of python and VSC, V0.0.2, 23/09
 Doccumentation has been created
 
-## Chapter 1 has been finished!, V0.0.3
+## Chapter 1 has been finished!, V0.0.3, 23/09
 Well for now it has been finished, But there is enough there to do what you want
+
+## Merge of Developing branch into master, V0.1.0, 24/09
+The branch that was used to privately develop chapter 1 has now been merged into the master branch.
+another branch will be made to continue work on Chapter 2 which will be released when it is finished.
