@@ -1,5 +1,5 @@
 # Installing Python
-While this is quite a simple task to do i will help step you through it to make sure that you select the right options to prevent future issues. you can download Python from [The official Website](https://www.python.org/downloads/), or you can click this link to install [3.9.0](https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe) (Will download automatically)
+While this is quite a simple task to do i will help step you through it to make sure that you select the right options to prevent future issues. you can download Python from [The official Website](https://www.python.org/downloads/), or you can click this link to install [3.9.0](https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe) for windows (Will download automatically).
 
 Once you find the .exe file in your downloads folder or where you saved it. Open it. you will then see a similar app to this ![Photo of python install](Chapter-1-Resourses/Install-1.jpg)
 
