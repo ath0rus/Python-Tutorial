@@ -53,6 +53,6 @@ Mine is greyed out but it will look different for you
 
 You now have Python ready to go Inside of VSC. Throught the rest of the documments i will be using VSC Insiders to run the code, But both version of VSC are neally identical.
 
-Next Part: [Chapter 2 Basics](../Chapter-2-Basics), News and updates about this tutorial: [The Readme file](../README.md)
+Next Part: [Chapter 2 Intro](../Chapter-2-Basics/1-Intro.md), News and updates about this tutorial: [The Readme file](../README.md)
 
 Editors Note: Sorry about the weird formatting for some reason github did not want to play the game
