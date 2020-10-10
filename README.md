@@ -2,7 +2,8 @@
 This Repo (Short for Reposotry) will aim to help you learn python. Below is a list of changes to the file. The content of this course is a mix of my own (ath0rus's) knowledge and Material from other websites which their links will be in the [Links file](Links.md).
 
 # Links
-[Start Here](Chapter-1-Setup/1-Intro.md) if you are new to python
+[Start Here](Chapter-1-Setup/1-Intro.md) if you are new to python\
+[Feedback](Feedback.md) is Very Much appreciated
 
 #### These following links will take you to the Intro fle of each section
 [Chapter 1 setup](Chapter-1-Setup/1-Intro.md)\
