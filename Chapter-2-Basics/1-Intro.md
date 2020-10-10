@@ -8,4 +8,4 @@ Right thats enough of an intro lets get into some python in the next Doccument
 
 
 
-What to read next: [print command](2-print.md), News and updates about this tutorial: [The Readme file](../README.md)
+What to read next: [The Print command](2-print.md), News and updates about this tutorial: [The Readme file](../README.md)
