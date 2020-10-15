@@ -20,4 +20,4 @@ Symbols aren't just the only Operators in python. you can have:
 
 While thats only 2 of the operators there are many more operators that you can use. Another important thing to know is that with the likes of if, and, or. You can use the Words instead of the symbol.
 
-Next to read: [Chapter Challenge](10-Challange.md), News and updates about this tutorial: [The Readme file](../README.md)
+Next to read: [Chapter Challenge](10-Challenge.md), News and updates about this tutorial: [The Readme file](../README.md)
