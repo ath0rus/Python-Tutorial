@@ -13,6 +13,8 @@ Then select all of the optional features and select next.
 
 Than select all the boxes again in Advanced features window. ![advanced features in python nstaller](Chapter-1-Resourses/Advanced-options.jpg)
 
+**IMPORTANT EDIT: Do not tick the last box as it will install VS 2017. and we don't want that as it is annoying to remove and takes up random space**
+
 This may seem unnessacary but it will help later. Click install and you should be done.
 
 Next to read: [Installing VSC](3-Installing-VSC.md), News and updates about this tutorial: [The Readme file](../README.md)
